@@ -1,0 +1,120 @@
+Purchase Details:
+Product Name: loverTshirt
+Quantity: 1
+Price: $3000.00
+-------------
+Product Name: erastourTshirt
+Quantity: 1
+Price: $3200.00
+-------------
+Username: ahamed
+
+=======================================
+Purchase Details:
+Username: ahamed
+
+=======================================
+Purchase Details:
+Product Name: loverTshirt
+Quantity: 1
+Price: $3000.00
+-------------
+Product Name: trouser
+Quantity: 1
+Price: $4500.00
+-------------
+Username: ahamed
+
+=======================================
+Purchase Details:
+Username: ahamed
+
+=======================================
+Purchase Details:
+Username: ahamed
+
+=======================================
+Purchase Details:
+Product Name: trouser
+Quantity: 1
+Price: $4500.00
+-------------
+Product Name: erastourTshirt
+Quantity: 1
+Price: $3200.00
+-------------
+Username: ahamed
+
+=======================================
+Purchase Details:
+Product Name: loverTshirt
+Quantity: 1
+Price: $3000.00
+-------------
+Product Name: erastourTshirt
+Quantity: 1
+Price: $3200.00
+-------------
+Username: ahamed
+
+=======================================
+Purchase Details:
+Username: ahamed
+
+=======================================
+Purchase Details:
+Username: ahamed
+
+=======================================
+Purchase Details:
+Product Name: Evermore
+Quantity: 1
+Price: $3000.00
+-------------
+Product Name: Folklore
+Quantity: 1
+Price: $4500.00
+-------------
+Product Name: Lover
+Quantity: 1
+Price: $3250.00
+-------------
+Product Name: Reputation
+Quantity: 1
+Price: $33500.00
+-------------
+Username: Ahamed Falih
+
+=======================================
+Purchase Details:
+Product Name: Tshirt
+Quantity: 1
+Price: $3500.00
+-------------
+Product Name: Trouser
+Quantity: 1
+Price: $4600.00
+-------------
+Product Name: Tshirt
+Quantity: 1
+Price: $3500.00
+-------------
+Username: Faalih Ahamad
+
+=======================================
+Purchase Details:
+Product Name: Tshirt
+Quantity: 1
+Price: $3500.00
+-------------
+Product Name: Watch
+Quantity: 1
+Price: $5500.00
+-------------
+Product Name: Trouser
+Quantity: 1
+Price: $3900.00
+-------------
+Username: John Michael
+
+=======================================

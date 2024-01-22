@@ -1,0 +1,2 @@
+Clothing,KLpo2239,Tshirt,3500.0,S,Red,4,
+Clothing,OHqt5579,Trouser,3900.0,M,Black,2,
